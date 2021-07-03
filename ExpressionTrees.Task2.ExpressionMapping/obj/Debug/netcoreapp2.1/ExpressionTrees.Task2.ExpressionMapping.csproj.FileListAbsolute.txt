@@ -1,0 +1,17 @@
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.deps.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb

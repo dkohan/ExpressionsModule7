@@ -1,0 +1,21 @@
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.deps.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.runtimeconfig.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.runtimeconfig.dev.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.pdb
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\bin\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task1.ExpressionsTransformator\obj\Debug\netcoreapp2.1\ExpressionTrees.Task1.ExpressionsTransformer.pdb

@@ -1,0 +1,34 @@
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.deps.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.runtimeconfig.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.runtimeconfig.dev.json
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.pdb
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csprojAssemblyReference.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj.CopyComplete
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.dll
+D:\EPAM\Mentoring\Anastasiya\03. Expressions and IQueryable\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\bin\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.csproj.CopyComplete
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Sln expr\ExpressionTrees.Task2.ExpressionMapping.Tests\obj\Debug\netcoreapp2.1\ExpressionTrees.Task2.ExpressionMapping.Tests.pdb
